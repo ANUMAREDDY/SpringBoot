@@ -16,7 +16,7 @@ public class CalculatorService {
 
     }
     public double multiply(double a, double b){
-        System.out.println("Multiplication of the two numbers");
+        System.out.println("Multiplicatio of the two numbers");
         return a*b;
 
     }
