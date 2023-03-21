@@ -11,7 +11,7 @@ public class CalculatorService {
 
     }
     public double divide(double a, double b){
-        System.out.println("division of the two numbers");
+        System.out.println("division of the two nu mbers");
         return a/b;
 
     }
